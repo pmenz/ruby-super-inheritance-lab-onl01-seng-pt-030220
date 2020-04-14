@@ -1,4 +1,4 @@
-class chatty_student  
+class Chatty_student  
 
 
 

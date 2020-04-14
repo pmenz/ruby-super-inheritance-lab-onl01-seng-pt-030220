@@ -6,7 +6,17 @@ def hello
 end
 
 def raise_hand 
-  super*10 
+  super
+  super
+  super
+  super
+  super
+  super
+  super
+  super
+  super
+  super
+  
 end
 
 end
